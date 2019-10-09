@@ -1,8 +1,9 @@
 <html>
 <body>
 <form action="show" method="post">
-   <input type="text" name="name">
-   <input type="submit" value="showName">
+  <h1>username: <input type="text" name="name"></h1>
+  <h1>password :<input type="password" name="password"></h1>
+   <input type="submit" value="submit">
 </form>
 </body>
 </html>
