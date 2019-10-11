@@ -1,1 +1,2 @@
-com/stackroute/UserController.class
+com/stackroute/model/User.class
+com/stackroute/controller/UserController.class

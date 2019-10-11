@@ -15,7 +15,7 @@ public class UserController {
         User user=new User();
         user.setName(str);
         ModelAndView modelAndView=new ModelAndView("display");
-        modelAndView.addObject("value",str);
+        modelAndView.addObject("value",user);
         return  modelAndView;
     }
 }

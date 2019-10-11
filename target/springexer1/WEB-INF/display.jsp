@@ -2,8 +2,8 @@
  pageEncoding="UTF-8" isELIgnored="false"%>
 
 <html>
- <body>
-welcome  ${value} to stackroute
+ <body> new file
+welcome  ${value.name} to stackroute
 
  </body>
  </html>
